@@ -38,6 +38,6 @@
     <tr>
         <th>C#</th>
         <td>É muito utilizada no desenvolvimento que integram com o ecossistema da Microsoft como por exemplo, na criação de jogos com Unity, sendo esse seu principal diferencial, a criação de jogos.</td>
-        <td>Linguagem mais complexa, mac acho extremamente interessante pelo fato de ser utilizada na criação de jogos.</td>
+        <td>Linguagem mais complexa, mas acho extremamente interessante pelo fato de ser utilizada na criação de jogos.</td>
     </tr>
 </table>
